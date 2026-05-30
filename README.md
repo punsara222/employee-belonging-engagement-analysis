@@ -78,11 +78,4 @@ The statement is **partially supported**:
 
 ---
 
-## 👥 Team — Group KND_08
 
-| Student No. | Name |
-|---|---|
-| IT23580176 | K A G T N Waidyarathne |
-| IT23642232 | S R M P T Rathnayake |
-| IT23728844 | M D A K Mahagamage |
-| IT23599154 | P A Tennakoon |
